@@ -1,21 +1,64 @@
 [
-    {
-      "id": 1,
-      "title": "Spaghetti Carbonara",
-      "summary": "A classic Italian pasta dish with eggs, cheese, bacon, and black pepper.",
-      "image": "https://via.placeholder.com/300"
-    },
-    {
-      "id": 2,
-      "title": "Chicken Tikka Masala",
-      "summary": "Chunks of grilled chicken (tikka) cooked in a smooth buttery & creamy tomato based gravy.",
-      "image": "https://via.placeholder.com/300"
-    },
-    {
-      "id": 3,
-      "title": "Avocado Toast",
-      "summary": "Toasted bread topped with creamy avocado, olive oil, and chili flakes.",
-      "image": "https://via.placeholder.com/300"
-    }
-  ]
-  
+  {
+    "id": 1,
+    "title": "Spaghetti Carbonara",
+    "summary": "A classic Italian pasta dish with eggs, cheese, bacon, and black pepper.",
+    "image": "https://via.placeholder.com/300",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta or bacon",
+      "2 large eggs",
+      "50g grated Parmesan cheese",
+      "2 cloves garlic",
+      "Salt & black pepper to taste"
+    ],
+    "instructions": [
+      "Cook the spaghetti in salted boiling water until al dente.",
+      "Fry the pancetta/bacon until crispy with garlic, then remove garlic.",
+      "Beat eggs in a bowl, mix with grated Parmesan.",
+      "Drain pasta and quickly mix with bacon and egg-cheese mixture.",
+      "Season with black pepper and serve hot."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Chicken Tikka Masala",
+    "summary": "Chunks of grilled chicken (tikka) cooked in a smooth buttery & creamy tomato based gravy.",
+    "image": "https://via.placeholder.com/300",
+    "ingredients": [
+      "500g chicken breast, cubed",
+      "200g plain yogurt",
+      "2 tbsp tikka masala paste",
+      "1 onion, chopped",
+      "400g canned tomatoes",
+      "200ml cream",
+      "Salt & spices to taste"
+    ],
+    "instructions": [
+      "Marinate chicken in yogurt and tikka masala paste for at least 1 hour.",
+      "Grill or pan-fry chicken until browned.",
+      "In a pan, fry onions until golden, add tomatoes and cook.",
+      "Add cream, simmer, then mix in grilled chicken.",
+      "Serve with rice or naan."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Avocado Toast",
+    "summary": "Toasted bread topped with creamy avocado, olive oil, and chili flakes.",
+    "image": "https://via.placeholder.com/300",
+    "ingredients": [
+      "2 slices bread",
+      "1 ripe avocado",
+      "1 tbsp olive oil",
+      "Chili flakes",
+      "Salt & pepper"
+    ],
+    "instructions": [
+      "Toast the bread slices until golden.",
+      "Mash avocado with salt, pepper, and olive oil.",
+      "Spread avocado mixture over toast.",
+      "Sprinkle with chili flakes and serve immediately."
+    ]
+  }
+]
